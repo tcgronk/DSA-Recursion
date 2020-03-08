@@ -1,0 +1,18 @@
+https://repl.it/@tgronski/powercalculator
+
+What is the input to the program?
+ 10,2
+ 
+ 10,-2
+
+What is the output of the program?
+
+100; "exponent should be >= 0"
+
+What is the input to each recursive call?
+ 
+count=0
+ 
+What is the output of each recursive call?
+
+1,0
