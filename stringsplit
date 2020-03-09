@@ -1,0 +1,6 @@
+https://repl.it/@tgronski/strSplit
+
+What is the input to the program? '02/20/2020'
+What is the output of the program? ['02','20','2020']
+What is the input to each recursive call? '02/20/2020'
+What is the output of each recursive call? ['02','20','2020']
