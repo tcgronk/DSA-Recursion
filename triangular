@@ -1,0 +1,9 @@
+https://repl.it/@tgronski/triangular
+
+What is the input to the program? 3
+What is the output of the program? 6
+What is the input to each recursive call? 3,2,1
+What is the output of each recursive call?
+ num = 3 + triangular(3-1)
+ num= 5+triangular(2-1)
+ 6 = 6 +0
