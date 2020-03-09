@@ -1,0 +1,7 @@
+https://repl.it/@tgronski/factorial
+
+What is the input to the program? 2
+What is the output of the program? 2
+What is the input to each recursive call? 2, 1
+What is the output of each recursive call? 2*factorial(1), 2*1
+
